@@ -10,3 +10,6 @@
 ```bash
 python3 main.py
 ```
+
+### Output
+Our quantum circuit is output as `quantum_circuit.jpeg`
