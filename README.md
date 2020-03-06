@@ -6,6 +6,8 @@
 - matplotlib
 - numpy
 
+quick test
+
 ### Run
 ```bash
 python3 main.py
